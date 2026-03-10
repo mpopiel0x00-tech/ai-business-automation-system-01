@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1006",
+  "customer_name": "Tom Gallagher",
+  "company": "BrightStack",
+  "issue_type": "billing_problem",
+  "priority": "low",
+  "status": "resolved",
+  "description": "Customer requested clarification on whether the Growth plan automation rule limit applies per workspace or per project, and later asked about switching from monthly to annual billing. Ticket resolved after pricing and billing explanation was provided.",
+  "created_at": "2026-03-01T11:10:00Z"
+}

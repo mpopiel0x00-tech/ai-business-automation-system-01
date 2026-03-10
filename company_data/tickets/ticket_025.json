@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1025",
+  "customer_name": "Daniel Wright",
+  "company": "Northbridge Labs",
+  "issue_type": "feature_question",
+  "priority": "low",
+  "status": "pending",
+  "description": "Customer sent multiple follow-ups asking whether the Starter plan's 10-user cap allows temporarily adding an 11th user during onboarding. This is a straightforward plan-limit clarification, but repeated follow-ups suggest poor response time from support.",
+  "created_at": "2026-03-02T09:47:00Z"
+}

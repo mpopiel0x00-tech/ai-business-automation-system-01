@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1024",
+  "customer_name": "Ahmed Farouk",
+  "company": "DevPilot",
+  "issue_type": "login_issue",
+  "priority": "high",
+  "status": "resolved",
+  "description": "Customer experienced a login loop where authentication succeeded but the app redirected back to the login page. Follow-up email later said the issue was resolved. Likely session cookie or browser state problem.",
+  "created_at": "2026-03-04T07:33:00Z"
+}

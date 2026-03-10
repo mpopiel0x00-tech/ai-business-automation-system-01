@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1015",
+  "customer_name": "Ben Richards",
+  "company": "CodePilot",
+  "issue_type": "performance_issue",
+  "priority": "high",
+  "status": "resolved",
+  "description": "Workspace access outage impacted the customer's team and produced authorization errors when opening boards. Service appears restored now, but customer requested a root cause explanation. This ticket tracks the incident communication.",
+  "created_at": "2026-03-03T17:12:00Z"
+}

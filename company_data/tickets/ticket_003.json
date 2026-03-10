@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1003",
+  "customer_name": "Nathan Brown",
+  "company": "FlowGrid",
+  "issue_type": "performance_issue",
+  "priority": "high",
+  "status": "open",
+  "description": "Frustrated customer reports multiple automation failures in one day that disrupted deployment workflows. Customer states the outages blocked release operations and is asking for a root cause explanation. Tone indicates escalation risk.",
+  "created_at": "2026-03-04T14:42:00Z"
+}

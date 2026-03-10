@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1011",
+  "customer_name": "Chloe Martin",
+  "company": "AgileCraft",
+  "issue_type": "bug_report",
+  "priority": "high",
+  "status": "open",
+  "description": "Permissions anomaly reported twice by customer: a contractor with viewer access was able to comment on tasks, and later a viewer user allegedly changed task status. Possible authorization regression affecting role enforcement at board level.",
+  "created_at": "2026-03-07T10:44:00Z"
+}

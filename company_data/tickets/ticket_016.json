@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1016",
+  "customer_name": "Kevin Park",
+  "company": "HorizonApps",
+  "issue_type": "integration_issue",
+  "priority": "medium",
+  "status": "pending",
+  "description": "Customer wants to know whether Notion integration supports database sync or only page linking. In a later message they report sync delays, with pages not appearing immediately. Combination of product clarification and possible latency problem.",
+  "created_at": "2026-03-08T11:22:00Z"
+}

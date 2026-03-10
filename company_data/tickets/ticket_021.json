@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1021",
+  "customer_name": "Jonas Becker",
+  "company": "FlowMatrix",
+  "issue_type": "performance_issue",
+  "priority": "high",
+  "status": "open",
+  "description": "Customer observed automation execution delays of several minutes, later estimating a 10-minute backlog. This suggests queue saturation or worker throughput problems affecting workflow SLAs across the workspace.",
+  "created_at": "2026-03-08T09:29:00Z"
+}

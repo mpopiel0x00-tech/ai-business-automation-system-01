@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1001",
+  "customer_name": "Marta Kowalska",
+  "company": "PixelFrame Studio",
+  "issue_type": "login_issue",
+  "priority": "high",
+  "status": "open",
+  "description": "Customer reports being unable to log in to the FlowForge workspace 'pixelframe'. Password reset emails are delayed or not received, and when they do arrive the reset link appears to expire too quickly. Issue matches repeated email follow-ups from the same customer.",
+  "created_at": "2026-03-02T08:14:00Z"
+}

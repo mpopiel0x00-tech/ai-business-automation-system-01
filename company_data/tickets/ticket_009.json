@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1009",
+  "customer_name": "George Patel",
+  "company": "StackFlow",
+  "issue_type": "feature_question",
+  "priority": "medium",
+  "status": "resolved",
+  "description": "Customer requested details on security documentation including encryption standards, audit log retention, and compliance posture. Request relates to procurement/security review rather than a platform malfunction.",
+  "created_at": "2026-03-02T12:48:00Z"
+}

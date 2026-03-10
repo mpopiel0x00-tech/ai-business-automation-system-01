@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1012",
+  "customer_name": "Tyler Benson",
+  "company": "QuickOrbit",
+  "issue_type": "performance_issue",
+  "priority": "medium",
+  "status": "pending",
+  "description": "Analytics dashboard loading in 10-15 seconds for a workspace with approximately 120 projects. Customer wants to know whether this is expected. Could be query performance degradation tied to large dataset size.",
+  "created_at": "2026-03-03T09:39:00Z"
+}

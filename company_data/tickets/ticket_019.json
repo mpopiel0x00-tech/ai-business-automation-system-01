@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1019",
+  "customer_name": "Oliver King",
+  "company": "AgileWorks",
+  "issue_type": "feature_question",
+  "priority": "low",
+  "status": "resolved",
+  "description": "Customer requested explanation of how workflow cycle time is calculated and later mentioned analytics metrics appearing inconsistent. Initial calculation question was answered, but separate data-quality concern may warrant a follow-up if inconsistencies persist.",
+  "created_at": "2026-03-02T10:11:00Z"
+}

@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1013",
+  "customer_name": "Priya Sharma",
+  "company": "BlueAnchor",
+  "issue_type": "billing_problem",
+  "priority": "low",
+  "status": "resolved",
+  "description": "Customer asked several pricing questions in follow-up emails, including annual billing calculation for Growth and whether added users are prorated mid-cycle. Informational billing request only.",
+  "created_at": "2026-03-01T15:25:00Z"
+}

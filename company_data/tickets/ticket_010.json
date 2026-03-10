@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1010",
+  "customer_name": "Mei Tan",
+  "company": "LaunchForge",
+  "issue_type": "billing_problem",
+  "priority": "medium",
+  "status": "open",
+  "description": "Customer's trial expired and they report losing access to automation rules. They also asked whether data would remain available after upgrading from trial. Needs clarification of trial-to-paid conversion behavior and restoration path.",
+  "created_at": "2026-03-07T07:56:00Z"
+}

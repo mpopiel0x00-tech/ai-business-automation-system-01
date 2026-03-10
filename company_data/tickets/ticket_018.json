@@ -1,0 +1,10 @@
+{
+  "ticket_id": "FF-1018",
+  "customer_name": "Miguel Santos",
+  "company": "AgileCraft",
+  "issue_type": "integration_issue",
+  "priority": "high",
+  "status": "open",
+  "description": "Webhook integration began returning HTTP 403 responses. Customer also asked about webhook retry behavior. Complex case may involve signature validation, allowlist changes, token revocation, or upstream endpoint policy changes.",
+  "created_at": "2026-03-04T18:06:00Z"
+}
