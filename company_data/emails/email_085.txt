@@ -1,0 +1,7 @@
+sender: Ben Richards
+company: CodePilot
+subject: workspace outage update
+body:
+Everything seems back now but we need root cause.
+
+Ben

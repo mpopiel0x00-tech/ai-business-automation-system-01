@@ -1,0 +1,11 @@
+sender: Emma Collins
+company: LaunchPad
+subject: Re: demo scheduling follow-up
+body:
+Hi,
+
+I’m following up again because we still haven’t received a response to our demo request. We’re evaluating workflow platforms for a 50-person product team, and silence from support is not exactly confidence-inspiring.
+
+Please let us know whether someone can meet this week.
+
+Emma

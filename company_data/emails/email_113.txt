@@ -1,0 +1,13 @@
+sender: Chloe Martin
+company: AgileCraft
+subject: Re: permissions issue - possible security problem
+body:
+Hi support,
+
+I’m following up because the permissions issue appears worse than I originally thought. A user with viewer access was able to comment, and today another viewer appears to have changed a task status.
+
+If roles are not being enforced correctly, this is a security problem, not just a UI issue.
+
+Please escalate.
+
+Chloe

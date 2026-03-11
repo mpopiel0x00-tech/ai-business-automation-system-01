@@ -1,0 +1,11 @@
+sender: Tom Gallagher
+company: BrightStack
+subject: Re: Automation limits on Growth plan
+body:
+Hello,
+
+Following up on my earlier note. We still need confirmation on whether the 500 automation rule limit applies per workspace or per project.
+
+We are also considering annual billing, but I’d rather get the usage limits confirmed first.
+
+Tom

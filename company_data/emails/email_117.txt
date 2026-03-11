@@ -1,0 +1,11 @@
+sender: Carla Diaz
+company: PixelOrbit
+subject: Re: unable to attach files
+body:
+Hi,
+
+Still having upload issues. I previously reported that attachments were failing, and now I can add one more detail: files under 5 MB sometimes upload, but larger files fail consistently with an upload limit message.
+
+Please clarify the actual file size limit for our workspace.
+
+Carla

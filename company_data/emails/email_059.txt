@@ -1,0 +1,7 @@
+sender: Chloe Martin
+company: AgileCraft
+subject: permissions bug maybe
+body:
+A viewer user was able to change a task status today.
+
+Chloe

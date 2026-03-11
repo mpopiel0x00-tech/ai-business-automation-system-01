@@ -1,0 +1,11 @@
+sender: George Patel
+company: StackFlow
+subject: Re: security audit logs retention
+body:
+Hello,
+
+I’m following up on my earlier security questions. We still need confirmation on encryption standards, audit log retention, and whether additional compliance documentation is available.
+
+This request is part of an internal vendor review, so delays here can block approval.
+
+George

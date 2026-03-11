@@ -1,0 +1,11 @@
+sender: Elena Petrova
+company: StreamForge
+subject: AI task summaries inaccurate
+body:
+Hi FlowForge team,
+
+The AI task summarization seems to be missing some information from our comment threads. It only shows the last few updates.
+
+Is there a way to adjust the summary scope?
+
+Elena

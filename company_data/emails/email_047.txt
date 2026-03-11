@@ -1,0 +1,9 @@
+sender: Claire Dubois
+company: AgileFlow
+subject: board templates
+body:
+Hello,
+
+Does FlowForge support reusable board templates?
+
+Claire

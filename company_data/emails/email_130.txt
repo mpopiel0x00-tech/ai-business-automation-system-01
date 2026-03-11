@@ -1,0 +1,11 @@
+sender: Nick Sanders
+company: OrbitTech
+subject: Re: automation history and audit logs
+body:
+Hi,
+
+Following up on my earlier questions about automation execution history and audit log export. We need both for internal troubleshooting and change review.
+
+If these features are only available on certain plans, please specify which ones.
+
+Nick

@@ -1,0 +1,7 @@
+sender: Rebecca Adams
+company: NovaLabs
+subject: analytics filters
+body:
+Can analytics be filtered by team?
+
+Rebecca

@@ -1,0 +1,7 @@
+sender: George Patel
+company: StackFlow
+subject: security audit logs retention
+body:
+How long are audit logs stored?
+
+George

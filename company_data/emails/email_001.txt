@@ -1,0 +1,10 @@
+sender: Daniel Wright
+company: Northbridge Labs
+subject: Question about Starter plan limits
+body:
+Hi FlowForge team,
+
+I'm evaluating the Starter plan and noticed the documentation mentions a 10 user limit. Does that mean we can't temporarily add an 11th user during onboarding?
+
+Thanks,
+Daniel

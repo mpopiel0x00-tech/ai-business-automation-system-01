@@ -1,0 +1,11 @@
+sender: Emma Collins
+company: LaunchPad
+subject: Demo request for 50 person team
+body:
+Hi FlowForge,
+
+We are evaluating workflow tools for our product organization (around 50 employees). We'd like to see how automation pipelines work at scale.
+
+Could we schedule a demo sometime this week?
+
+Emma

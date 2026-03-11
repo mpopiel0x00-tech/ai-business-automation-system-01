@@ -1,0 +1,11 @@
+sender: Kevin Park
+company: HorizonApps
+subject: Re: Notion integration question
+body:
+Hello,
+
+Following up on my previous message. I asked whether the Notion integration supports database sync or only page linking, and I still haven’t heard back.
+
+We are deciding whether to connect product specs directly from Notion or use another workflow.
+
+Kevin

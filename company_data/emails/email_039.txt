@@ -1,0 +1,9 @@
+sender: Rebecca Adams
+company: NovaLabs
+subject: analytics report export
+body:
+Hello,
+
+Is there a way to export analytics reports for management reviews?
+
+Rebecca

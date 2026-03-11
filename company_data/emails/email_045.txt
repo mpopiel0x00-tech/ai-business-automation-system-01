@@ -1,0 +1,9 @@
+sender: David Kim
+company: DevStack
+subject: enterprise pricing inquiry
+body:
+Hello,
+
+We are evaluating workflow tools for a 200 person organization. Could you share enterprise pricing information?
+
+David

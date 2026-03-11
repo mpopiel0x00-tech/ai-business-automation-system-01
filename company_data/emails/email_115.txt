@@ -1,0 +1,11 @@
+sender: Mei Tan
+company: LaunchForge
+subject: Re: trial expired and automations missing
+body:
+Hi,
+
+Following up on my previous message. Our trial expired today and the automation rules appear disabled or missing from view.
+
+Before the trial ended, we asked whether data would remain if we upgraded. We still need an answer, and now we also need to know whether these automations can be restored after moving to a paid plan.
+
+Mei

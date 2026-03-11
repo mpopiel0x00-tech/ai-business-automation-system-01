@@ -1,0 +1,11 @@
+sender: Hassan Ali
+company: RapidForge
+subject: Re: email notifications stopped - still broken
+body:
+Hi,
+
+Still not receiving task update emails. This was reported before and we have not received a useful answer yet.
+
+Additional detail: task comments are being saved correctly, but no email notifications are being triggered for assignees or watchers.
+
+Hassan

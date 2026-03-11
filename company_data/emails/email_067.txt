@@ -1,0 +1,7 @@
+sender: Emma Collins
+company: LaunchPad
+subject: demo scheduling follow-up
+body:
+Just checking on demo availability.
+
+Emma

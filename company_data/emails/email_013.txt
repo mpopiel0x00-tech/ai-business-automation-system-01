@@ -1,0 +1,11 @@
+sender: George Patel
+company: StackFlow
+subject: Enterprise security documentation
+body:
+Hello,
+
+We're reviewing your platform for internal adoption and need more information about security compliance, specifically encryption standards and audit logging.
+
+Do you have SOC2 documentation available?
+
+George

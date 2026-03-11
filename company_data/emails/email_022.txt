@@ -1,0 +1,9 @@
+sender: Hassan Ali
+company: RapidForge
+subject: email notifications stopped
+body:
+Hi
+
+Not receiving task update emails today. Other team members also.
+
+Hassan

@@ -1,0 +1,11 @@
+sender: Alex Turner
+company: Vortex Labs
+subject: Zapier automation stopped working
+body:
+Hi,
+
+One of our Zapier automations stopped creating tasks in FlowForge yesterday. The Zap is still active on Zapier’s side.
+
+Has there been any API changes recently?
+
+Alex

@@ -1,0 +1,11 @@
+sender: Tyler Benson
+company: QuickOrbit
+subject: Analytics dashboard loading slowly
+body:
+Hey team,
+
+Our analytics dashboard has been taking 10–15 seconds to load this morning. Not sure if this is related to the number of projects we have (~120).
+
+Is this expected behavior?
+
+Tyler

@@ -1,0 +1,7 @@
+sender: Laura Jensen
+company: SparkWorks
+subject: exporting board comments
+body:
+Are comments included in board exports?
+
+Laura

@@ -1,0 +1,7 @@
+sender: Daniel Ortiz
+company: LaunchGrid
+subject: automation examples
+body:
+Looking for automation examples.
+
+Daniel

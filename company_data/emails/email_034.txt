@@ -1,0 +1,9 @@
+sender: Victor Huang
+company: DevEdge
+subject: automation trigger conditions
+body:
+Hi,
+
+Can automation triggers use multiple conditional branches like if/else logic?
+
+Victor

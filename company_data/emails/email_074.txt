@@ -1,0 +1,7 @@
+sender: Andre Costa
+company: DevLoop
+subject: SSO login errors
+body:
+Users getting SAML authentication errors.
+
+Andre

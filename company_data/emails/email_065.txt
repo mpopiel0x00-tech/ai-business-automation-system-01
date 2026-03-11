@@ -1,0 +1,7 @@
+sender: Lucas Meyer
+company: CodeOrbit
+subject: API rate limit exceeded
+body:
+Our integration hit a rate limit.
+
+Lucas

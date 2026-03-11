@@ -1,0 +1,7 @@
+sender: Nathan Brown
+company: FlowGrid
+subject: second complaint about automation reliability
+body:
+We need an explanation for the automation outages earlier today.
+
+Nathan

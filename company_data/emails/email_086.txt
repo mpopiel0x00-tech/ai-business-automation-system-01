@@ -1,0 +1,7 @@
+sender: Victor Huang
+company: DevEdge
+subject: API authentication method
+body:
+Does the API support OAuth?
+
+Victor

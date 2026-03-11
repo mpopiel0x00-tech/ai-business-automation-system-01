@@ -1,0 +1,9 @@
+sender: Hannah Brooks
+company: NovaApps
+subject: task board glitch
+body:
+Tasks disappearing when moving between columns. Happens randomly.
+
+Please check.
+
+Hannah

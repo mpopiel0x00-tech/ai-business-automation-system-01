@@ -1,0 +1,11 @@
+sender: Victor Huang
+company: DevEdge
+subject: Re: automation conditional triggers
+body:
+Hello,
+
+Following up on my previous questions about automation logic. I asked whether rules can support if/else branches and whether external API responses can be referenced in conditions.
+
+We are designing a fairly complex workflow and need a definitive answer before implementation.
+
+Victor

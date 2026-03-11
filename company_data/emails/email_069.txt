@@ -1,0 +1,7 @@
+sender: Miguel Santos
+company: AgileCraft
+subject: webhook retry behavior
+body:
+How many retries does FlowForge attempt on failed webhooks?
+
+Miguel

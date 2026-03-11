@@ -1,0 +1,9 @@
+sender: Mei Tan
+company: LaunchForge
+subject: Trial expiration question
+body:
+Hi,
+
+Our trial expires tomorrow. Will our data remain if we upgrade after the trial ends?
+
+Mei

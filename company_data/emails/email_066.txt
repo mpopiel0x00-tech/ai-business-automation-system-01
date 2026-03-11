@@ -1,0 +1,7 @@
+sender: Amanda Lopez
+company: BrightStack
+subject: upgrade completed but features missing
+body:
+We upgraded to Growth but still see Starter limits.
+
+Amanda

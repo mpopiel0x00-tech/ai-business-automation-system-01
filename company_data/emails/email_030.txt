@@ -1,0 +1,9 @@
+sender: Dmitri Volkov
+company: SkyForge
+subject: google drive attachments
+body:
+Hi,
+
+Is there size limit for Google Drive attachments linked to tasks?
+
+Dmitri

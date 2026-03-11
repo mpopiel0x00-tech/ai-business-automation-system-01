@@ -1,0 +1,7 @@
+sender: Jonas Becker
+company: FlowMatrix
+subject: automation queue backlog
+body:
+Looks like automations delayed by 10 minutes.
+
+Jonas

@@ -1,0 +1,9 @@
+sender: Nick Sanders
+company: OrbitTech
+subject: automation history logs
+body:
+Hi,
+
+Is there a way to view the history of automation executions?
+
+Nick

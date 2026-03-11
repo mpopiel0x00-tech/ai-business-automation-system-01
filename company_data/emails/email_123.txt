@@ -1,0 +1,11 @@
+sender: David Kim
+company: DevStack
+subject: Re: Enterprise pricing inquiry
+body:
+Hello,
+
+Following up on my earlier message regarding Enterprise pricing and onboarding. We are reviewing tools for a 200-person organization and need at least a rough understanding of implementation timeline, security review process, and admin setup requirements.
+
+No response yet, and procurement cannot move forward without this.
+
+David

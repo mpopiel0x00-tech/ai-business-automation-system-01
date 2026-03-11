@@ -1,0 +1,7 @@
+sender: Hassan Ali
+company: RapidForge
+subject: Re: email notifications stopped
+body:
+Still not receiving notifications.
+
+Hassan

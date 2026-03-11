@@ -1,0 +1,7 @@
+sender: Hannah Brooks
+company: NovaApps
+subject: task board glitch update
+body:
+Issue still happening.
+
+Hannah

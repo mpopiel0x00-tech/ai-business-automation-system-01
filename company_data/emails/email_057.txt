@@ -1,0 +1,7 @@
+sender: Anika Patel
+company: ByteLabs
+subject: AI feature limits
+body:
+Are there usage limits on AI summaries?
+
+Anika

@@ -1,0 +1,12 @@
+sender: Jason Patel
+company: DevSpark
+subject: GitHub PR automation question
+body:
+Hi,
+
+We’re trying to automatically move tasks to "Review" when a GitHub pull request is opened. I saw something in the integrations documentation but I’m not sure how to configure the trigger.
+
+Do you have an example automation rule for that?
+
+Thanks,
+Jason

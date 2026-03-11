@@ -1,0 +1,7 @@
+sender: Priya Sharma
+company: BlueAnchor
+subject: final pricing question
+body:
+If we add users mid month are they prorated?
+
+Priya

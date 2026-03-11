@@ -1,0 +1,11 @@
+sender: Ben Richards
+company: CodePilot
+subject: Re: Urgent workspace access issue
+body:
+We need more than “it seems back now.”
+
+Following up on the outage from earlier. Our team lost access to boards during active sprint planning, and we need a root cause explanation plus confirmation that this will not happen again.
+
+This was a serious disruption for us.
+
+Ben

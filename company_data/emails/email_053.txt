@@ -1,0 +1,7 @@
+sender: Kevin Park
+company: HorizonApps
+subject: Re: Notion integration
+body:
+Just following up on my earlier question.
+
+Kevin

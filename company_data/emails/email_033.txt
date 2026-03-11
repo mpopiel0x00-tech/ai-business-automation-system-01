@@ -1,0 +1,9 @@
+sender: Anika Patel
+company: ByteLabs
+subject: AI summary feature availability
+body:
+Hi,
+
+Is AI summarization included in the Starter plan?
+
+Anika

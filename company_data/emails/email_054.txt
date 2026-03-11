@@ -1,0 +1,7 @@
+sender: Marco Silva
+company: Orbit Agency
+subject: Slack integration error message
+body:
+Now receiving error: "invalid webhook token".
+
+Marco

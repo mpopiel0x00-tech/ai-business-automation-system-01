@@ -1,0 +1,7 @@
+sender: Victor Huang
+company: DevEdge
+subject: automation conditional triggers
+body:
+Can automation rules reference external API responses?
+
+Victor

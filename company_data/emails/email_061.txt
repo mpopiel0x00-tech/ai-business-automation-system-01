@@ -1,0 +1,7 @@
+sender: Alex Turner
+company: Vortex Labs
+subject: Zapier API error
+body:
+Receiving 429 rate limit errors.
+
+Alex

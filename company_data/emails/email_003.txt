@@ -1,0 +1,12 @@
+sender: Liam Chen
+company: PrismSoft
+subject: Request for product demo
+body:
+Hi FlowForge,
+
+We're a small SaaS company with around 35 employees and are currently evaluating workflow platforms. Could someone from your team walk us through the automation pipelines and analytics dashboard?
+
+Looking for a 30–45 minute demo if possible.
+
+Thanks,
+Liam

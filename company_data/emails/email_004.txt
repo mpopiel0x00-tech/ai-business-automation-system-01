@@ -1,0 +1,13 @@
+sender: Marta Kowalska
+company: PixelFrame Studio
+subject: Cannot login to workspace
+body:
+Hello support,
+
+I cannot login today. I try password reset but email not coming.
+
+Workspace name: pixelframe
+
+Please help.
+
+Marta

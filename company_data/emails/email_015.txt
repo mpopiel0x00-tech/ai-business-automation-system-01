@@ -1,0 +1,13 @@
+sender: Luca Romano
+company: DevOrbit
+subject: Automation rule error
+body:
+Hi,
+
+One of our automation rules keeps failing with the message:
+
+"Condition evaluation timeout"
+
+What does that mean?
+
+Luca

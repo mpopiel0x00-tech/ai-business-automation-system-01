@@ -1,0 +1,7 @@
+sender: Olivia Chen
+company: PixelForge
+subject: automation templates
+body:
+Do you provide automation templates?
+
+Olivia

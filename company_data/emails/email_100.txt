@@ -1,0 +1,7 @@
+sender: Nathan Brown
+company: FlowGrid
+subject: final update on outage
+body:
+Looks like the automation system is stable again. We'll continue monitoring.
+
+Nathan

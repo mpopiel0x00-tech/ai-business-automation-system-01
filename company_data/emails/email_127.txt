@@ -1,0 +1,13 @@
+sender: Elena Petrova
+company: StreamForge
+subject: Re: AI task summaries missing context
+body:
+Hi FlowForge team,
+
+Following up on my earlier email about AI task summarization. The summaries are still omitting key decisions from longer comment threads, especially when several people contribute over multiple days.
+
+To be specific, it seems to over-weight the latest comments and ignore earlier blocker discussions.
+
+Can this behavior be configured, or is this a model limitation?
+
+Elena

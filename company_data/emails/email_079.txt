@@ -1,0 +1,7 @@
+sender: Sam Wilson
+company: OrbitFlow
+subject: payment failed notification
+body:
+We received payment failed email but card is valid.
+
+Sam

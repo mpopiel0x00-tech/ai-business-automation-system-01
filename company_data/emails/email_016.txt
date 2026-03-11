@@ -1,0 +1,9 @@
+sender: Kevin Park
+company: HorizonApps
+subject: Notion integration
+body:
+Hello,
+
+Does the Notion integration allow syncing databases or only linking pages?
+
+Kevin

@@ -1,0 +1,9 @@
+sender: Lucas Meyer
+company: CodeOrbit
+subject: Integration with internal API
+body:
+Hello,
+
+We are evaluating your API for integration with our internal workflow system. Is there a rate limit for automation triggers initiated through the API?
+
+Lucas

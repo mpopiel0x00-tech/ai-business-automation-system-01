@@ -1,0 +1,11 @@
+sender: Ahmed Farouk
+company: DevPilot
+subject: Re: login loop issue still happening intermittently
+body:
+Hi,
+
+I know I mentioned the login issue before, but I want to add another detail: it is not fully gone. The redirect loop is intermittent now.
+
+It happens mostly after browser idle time, then I sign in and get sent back to the login page once before it works.
+
+Ahmed

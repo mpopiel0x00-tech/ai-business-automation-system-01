@@ -1,0 +1,9 @@
+sender: Chloe Martin
+company: AgileCraft
+subject: Board permissions issue
+body:
+Hi support,
+
+I gave one of our contractors viewer access but they can still comment on tasks. Is that expected behavior?
+
+Chloe

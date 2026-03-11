@@ -1,0 +1,7 @@
+sender: Mei Tan
+company: LaunchForge
+subject: trial expired today
+body:
+Our trial expired today and we lost automation rules.
+
+Mei

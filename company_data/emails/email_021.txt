@@ -1,0 +1,9 @@
+sender: Tom Gallagher
+company: BrightStack
+subject: Automation limits on Growth plan
+body:
+Hello,
+
+We are considering upgrading to Growth but want to confirm whether the 500 automation rule limit is per workspace or per project.
+
+Tom

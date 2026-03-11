@@ -1,0 +1,16 @@
+sender: Lucas Meyer
+company: CodeOrbit
+subject: Re: API rate limit exceeded
+body:
+Hello,
+
+I’m following up on the rate limit issue. Our internal integration hit the API ceiling again today, even though request volume was lower than yesterday.
+
+Additional context:
+- burst traffic is low
+- failures occur during scheduled sync jobs
+- authentication succeeds, but write operations are throttled
+
+Would appreciate exact rate limit guidance.
+
+Lucas

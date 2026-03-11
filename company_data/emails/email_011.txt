@@ -1,0 +1,9 @@
+sender: Marco Silva
+company: Orbit Agency
+subject: Re: Slack integration not sending notifications
+body:
+Hello again,
+
+Following up on my previous message about Slack notifications. Still not receiving anything in the channel.
+
+Marco

@@ -1,0 +1,7 @@
+sender: Tom Gallagher
+company: BrightStack
+subject: billing cycle change
+body:
+Can we switch to annual billing?
+
+Tom

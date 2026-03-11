@@ -1,0 +1,9 @@
+sender: Carlos Mendes
+company: Orbit Agency
+subject: Re: Slack integration not sending notifications
+body:
+Hello,
+
+Third follow-up regarding the Slack issue. Our team is still not receiving notifications.
+
+Carlos

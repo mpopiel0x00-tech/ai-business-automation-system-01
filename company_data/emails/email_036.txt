@@ -1,0 +1,7 @@
+sender: Miguel Santos
+company: AgileCraft
+subject: broken webhook integration
+body:
+Our webhook integration started returning HTTP 403 responses today.
+
+Miguel

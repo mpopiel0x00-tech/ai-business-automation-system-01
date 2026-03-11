@@ -1,0 +1,12 @@
+sender: Sofia Alvarez
+company: Orbit Agency
+subject: Slack integration not sending notifications
+body:
+Hello,
+
+We connected our Slack workspace yesterday but notifications are not showing up in the channel we selected. The integration shows as "active" inside FlowForge.
+
+Is there a step we might have missed?
+
+Best,
+Sofia

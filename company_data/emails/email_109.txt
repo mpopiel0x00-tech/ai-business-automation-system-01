@@ -1,0 +1,13 @@
+sender: Olivia Chen
+company: PixelForge
+subject: Re: recurring tasks request
+body:
+Hi FlowForge team,
+
+Following up on my earlier question about recurring tasks. This is a real operational need for us, not just a nice-to-have.
+
+We run weekly QA reviews, monthly content audits, and quarterly security checks. Right now we are manually recreating the same work every cycle.
+
+Can you confirm whether this feature exists, is planned, or requires a workaround?
+
+Olivia

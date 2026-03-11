@@ -1,0 +1,9 @@
+sender: Andre Costa
+company: DevLoop
+subject: SSO configuration help
+body:
+Hi,
+
+We are trying to configure SSO with Azure AD but users cannot authenticate.
+
+Andre

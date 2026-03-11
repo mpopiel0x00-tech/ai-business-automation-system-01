@@ -1,0 +1,9 @@
+sender: Sarah Johnson
+company: WaveMetrics
+subject: Importing tasks from another platform
+body:
+Hi,
+
+We're migrating from another task management tool and wanted to know if FlowForge supports bulk importing tasks via CSV.
+
+Sarah

@@ -1,0 +1,7 @@
+sender: Kevin Park
+company: HorizonApps
+subject: Notion sync delay
+body:
+Pages not syncing immediately.
+
+Kevin

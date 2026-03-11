@@ -1,0 +1,18 @@
+sender: Liam Chen
+company: PrismSoft
+subject: Re: Request for demo this week
+body:
+Hi FlowForge,
+
+Following up on my demo request. We are evaluating vendors this week and still have not received confirmation.
+
+We are especially interested in:
+- automation pipelines
+- analytics dashboard
+- team permissions
+- AI summaries for project updates
+
+Please let us know if someone is available.
+
+Thanks,
+Liam

@@ -1,0 +1,13 @@
+sender: Jonas Becker
+company: FlowMatrix
+subject: Re: automation delays increasing
+body:
+Hello,
+
+Following up on the queue delay issue. What was initially a few minutes now looks closer to 10–12 minutes for some rules.
+
+This is affecting SLA-sensitive workflows for our operations team.
+
+Please confirm whether there is an active incident.
+
+Jonas

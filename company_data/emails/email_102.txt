@@ -1,0 +1,12 @@
+sender: Sofia Alvarez
+company: Orbit Agency
+subject: Re: Slack integration not sending notifications
+body:
+Hello,
+
+Following up again on the Slack integration issue I reported earlier. Notifications are still not being delivered to our selected channel, and our team is currently missing workflow alerts.
+
+This issue is urgent because we rely on Slack for handoffs between account managers and delivery leads.
+
+Best,
+Sofia

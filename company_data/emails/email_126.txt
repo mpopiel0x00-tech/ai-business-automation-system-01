@@ -1,0 +1,11 @@
+sender: Miguel Santos
+company: AgileCraft
+subject: Re: broken webhook integration
+body:
+Hi,
+
+Following up on the webhook problem. We are still getting HTTP 403 responses from the FlowForge side, and retry behavior is unclear.
+
+We checked our endpoint logs and do not see malformed payloads. If anything changed in signature headers or auth format, we need to know.
+
+Miguel

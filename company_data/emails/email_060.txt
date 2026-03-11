@@ -1,0 +1,7 @@
+sender: Daniel Wright
+company: Northbridge Labs
+subject: Re: Starter plan limits
+body:
+Last follow-up on this question.
+
+Daniel

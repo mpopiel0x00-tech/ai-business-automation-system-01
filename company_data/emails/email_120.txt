@@ -1,0 +1,11 @@
+sender: Sarah Johnson
+company: WaveMetrics
+subject: Re: CSV import formatting question
+body:
+Hi,
+
+Following up on my earlier message about CSV import formatting for assignees. We’re preparing a migration and can’t proceed without knowing the required format.
+
+Also, can one CSV row include multiple assignees, or is it limited to one user per task?
+
+Sarah

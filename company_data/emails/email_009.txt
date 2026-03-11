@@ -1,0 +1,10 @@
+sender: Priya Sharma
+company: BlueAnchor
+subject: Pricing clarification
+body:
+Hello,
+
+For the Growth plan, is the $49 price per user per month even if we pay annually?
+
+Thanks,
+Priya

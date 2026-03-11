@@ -1,0 +1,7 @@
+sender: Oliver King
+company: AgileWorks
+subject: analytics data accuracy
+body:
+Some metrics appear inconsistent.
+
+Oliver

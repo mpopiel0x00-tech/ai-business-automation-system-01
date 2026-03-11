@@ -1,0 +1,9 @@
+sender: Olivia Chen
+company: PixelForge
+subject: Feature request: recurring tasks
+body:
+Hi,
+
+Does FlowForge support recurring tasks? We have weekly QA reviews and would love to automate task creation.
+
+Olivia

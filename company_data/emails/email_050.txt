@@ -1,0 +1,7 @@
+sender: Ethan Walker
+company: DevForge
+subject: integration limits
+body:
+How many integrations can be connected in one workspace?
+
+Ethan

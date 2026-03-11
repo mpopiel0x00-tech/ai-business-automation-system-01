@@ -1,0 +1,17 @@
+sender: Andre Costa
+company: DevLoop
+subject: Re: SSO configuration help
+body:
+Hi,
+
+Following up on the SSO issue. Users are still getting SAML authentication errors after redirect.
+
+Additional details:
+- Identity provider: Azure AD
+- SSO test user fails immediately after login
+- error appears after assertion post
+- local login works, SSO does not
+
+This is blocking rollout for our internal team.
+
+Andre

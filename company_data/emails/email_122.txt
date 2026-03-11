@@ -1,0 +1,11 @@
+sender: Amanda Lopez
+company: BrightStack
+subject: Re: upgrade completed but features still missing
+body:
+Hi there,
+
+Following up because our workspace still shows Starter-level restrictions after the upgrade to Growth. We expected access to advanced automations and higher limits immediately.
+
+We already informed our team about the upgrade, so this mismatch is creating confusion internally.
+
+Amanda

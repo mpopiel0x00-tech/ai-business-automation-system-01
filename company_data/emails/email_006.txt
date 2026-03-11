@@ -1,0 +1,10 @@
+sender: Amanda Lopez
+company: BrightStack
+subject: Upgrade to Growth plan
+body:
+Hi there,
+
+Our team recently exceeded the Starter plan limits and we'd like to upgrade to Growth. Is the upgrade immediate or does it wait until the next billing cycle?
+
+Thank you,
+Amanda

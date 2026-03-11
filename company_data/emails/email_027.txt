@@ -1,0 +1,9 @@
+sender: Oliver King
+company: AgileWorks
+subject: Analytics metrics explanation
+body:
+Hello,
+
+Could you explain how "workflow cycle time" is calculated in the analytics dashboard?
+
+Oliver

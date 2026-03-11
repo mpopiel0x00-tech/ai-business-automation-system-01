@@ -1,0 +1,11 @@
+sender: Marta Kowalska
+company: PixelFrame Studio
+subject: Re: Cannot login to workspace - urgent
+body:
+Hello support,
+
+I wrote before and still cannot access our workspace. Password reset email comes late and when I use it, link says expired.
+
+We have client work inside FlowForge and cannot wait much longer.
+
+Marta

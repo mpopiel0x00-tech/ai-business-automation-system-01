@@ -1,0 +1,7 @@
+sender: George Patel
+company: StackFlow
+subject: encryption standards
+body:
+Which encryption standards are used for data at rest?
+
+George

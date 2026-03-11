@@ -1,0 +1,7 @@
+sender: Ethan Walker
+company: DevForge
+subject: workspace rename
+body:
+Can we rename a workspace?
+
+Ethan

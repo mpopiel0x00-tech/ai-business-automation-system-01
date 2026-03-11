@@ -1,0 +1,9 @@
+sender: Jonas Becker
+company: FlowMatrix
+subject: automation execution delay
+body:
+Hello,
+
+Some automation rules seem delayed by several minutes. Is there a processing queue?
+
+Jonas

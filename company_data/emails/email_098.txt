@@ -1,0 +1,7 @@
+sender: Marco Silva
+company: Orbit Agency
+subject: Slack integration fixed
+body:
+Issue resolved after reconnecting integration.
+
+Marco

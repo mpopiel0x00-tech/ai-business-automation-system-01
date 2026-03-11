@@ -1,0 +1,7 @@
+sender: Marta Kowalska
+company: PixelFrame Studio
+subject: password reset link expired
+body:
+Password reset link expired quickly.
+
+Marta

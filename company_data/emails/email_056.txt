@@ -1,0 +1,9 @@
+sender: Liam Chen
+company: PrismSoft
+subject: Re: Request for product demo
+body:
+Hi,
+
+Checking availability for demo this week.
+
+Liam

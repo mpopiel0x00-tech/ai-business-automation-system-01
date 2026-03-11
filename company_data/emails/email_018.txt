@@ -1,0 +1,9 @@
+sender: Daniel Wright
+company: Northbridge Labs
+subject: Re: Question about Starter plan limits
+body:
+Hi again,
+
+Just checking if you had a chance to answer my earlier question about the 10 seat limit on the Starter plan.
+
+Daniel

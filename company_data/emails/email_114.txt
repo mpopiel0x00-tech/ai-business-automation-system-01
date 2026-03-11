@@ -1,0 +1,9 @@
+sender: Nathan Brown
+company: FlowGrid
+subject: Re: automation failures - still no explanation
+body:
+I’m following up because we still have not received a meaningful explanation for the automation failures.
+
+Your platform interrupted our deployment workflow three times in one day. That is not a minor inconvenience. We need incident details, scope, and whether compensation is being considered.
+
+Nathan

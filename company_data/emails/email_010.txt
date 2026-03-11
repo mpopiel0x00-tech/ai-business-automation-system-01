@@ -1,0 +1,11 @@
+sender: Ben Richards
+company: CodePilot
+subject: Urgent: workspace access lost
+body:
+We just lost access to our entire workspace.
+
+No one on our team can open boards right now. It shows an authorization error.
+
+Please respond ASAP.
+
+Ben

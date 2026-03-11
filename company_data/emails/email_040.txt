@@ -1,0 +1,7 @@
+sender: Tom Gallagher
+company: BrightStack
+subject: Re: Automation limits on Growth plan
+body:
+Following up on my earlier question regarding the automation limits.
+
+Tom

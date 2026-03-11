@@ -1,0 +1,9 @@
+sender: Sam Wilson
+company: OrbitFlow
+subject: invoice request
+body:
+Hello,
+
+Could you send our invoice for the last billing period?
+
+Sam

@@ -1,0 +1,7 @@
+sender: Chloe Martin
+company: AgileCraft
+subject: task history missing
+body:
+Task history panel empty for some tasks.
+
+Chloe

@@ -1,0 +1,13 @@
+sender: Hannah Brooks
+company: NovaApps
+subject: Re: task board glitch still happening
+body:
+Hi,
+
+I reported that tasks were disappearing when moved between columns. This is still happening and now I can confirm it affects at least two separate boards.
+
+We dragged a task from “In Progress” to “Review,” saw it disappear, then it reappeared several minutes later in the original column.
+
+Please treat this as urgent.
+
+Hannah

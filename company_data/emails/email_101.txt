@@ -1,0 +1,12 @@
+sender: Daniel Wright
+company: Northbridge Labs
+subject: Re: Starter plan limits - still waiting
+body:
+Hi FlowForge team,
+
+Following up on my previous messages about the Starter plan seat limit. I still have not received a clear answer on whether we can temporarily add an 11th user during onboarding.
+
+We need to make a purchasing decision today, so this is becoming time-sensitive.
+
+Thanks,
+Daniel

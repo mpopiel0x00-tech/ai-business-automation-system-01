@@ -1,0 +1,16 @@
+sender: Alex Turner
+company: Vortex Labs
+subject: Re: Zapier automation stopped working
+body:
+Hi,
+
+Following up on the Zapier issue from yesterday. We are now seeing both 429 rate limit responses and occasional webhook timeouts. The failure is not isolated to one workflow anymore.
+
+Additional detail:
+- 3 different Zaps affected
+- all are task creation actions
+- issue started around 14:20 UTC yesterday
+
+Please advise soon.
+
+Alex

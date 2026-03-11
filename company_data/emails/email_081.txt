@@ -1,0 +1,7 @@
+sender: David Kim
+company: DevStack
+subject: enterprise onboarding
+body:
+How long does enterprise onboarding usually take?
+
+David

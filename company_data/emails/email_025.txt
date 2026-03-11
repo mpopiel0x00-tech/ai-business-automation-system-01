@@ -1,0 +1,9 @@
+sender: Nathan Brown
+company: FlowGrid
+subject: Extremely frustrated with automation failures
+body:
+Your automation system has failed 3 times today and blocked our entire deployment workflow.
+
+This is unacceptable for a paid product.
+
+Nathan

@@ -1,0 +1,9 @@
+sender: Sarah Johnson
+company: WaveMetrics
+subject: CSV import formatting
+body:
+Hi,
+
+What column format should we use for assignees in CSV imports?
+
+Sarah
